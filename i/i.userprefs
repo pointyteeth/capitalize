@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\CharacterDesign 4\CharacterDesign\Assets\Scripts\offsetAndTileMaterial.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Capitalize\Capitalize\characterdesign\assets\Scripts\playerController.js">
     <Files>
-      <File FileName="..\CharacterDesign 4\CharacterDesign\Assets\Scripts\offsetAndTileMaterial.js" Line="4" Column="1" />
+      <File FileName="..\Capitalize\Capitalize\characterdesign\assets\Scripts\playerController.js" Line="32" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
